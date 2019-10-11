@@ -9,7 +9,7 @@ module.exports = {
         lineNumbers: true
     },
     themeConfig: {
-        repo: 'zhehume/zhehume-blog',
+        repo: 'zhehume/zhuhume-blog',
         nav: require('./nav.js'),
         sidebar: require('./sidebar.js'),
         sidebarDepth: 2,
