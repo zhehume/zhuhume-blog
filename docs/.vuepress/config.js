@@ -3,7 +3,8 @@ module.exports = {
     description: '只要开始就不算太晚！',
     port: '7777',
     head: [
-        ['link', {rel: 'icon', href: '/logo.jpg'}]
+        ['link', {rel: 'icon', href: '/logo.jpg'}],
+        ['script',{rel: 'ext/javascript', src: '/tongji.js'}]
     ],
     markdown: {
         lineNumbers: true
