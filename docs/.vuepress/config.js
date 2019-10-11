@@ -5,7 +5,6 @@ module.exports = {
     head: [
         ['link', {rel: 'icon', href: '/logo.jpg'}]
     ],
-    base: '/zhehume-blog',
     markdown: {
         lineNumbers: true
     },
